@@ -9,5 +9,5 @@ Saya masih belajar dan sedang mencari pengalaman serta skill baru di dalan dunia
 ## 🛠️ Tumpukan Teknologi / Skill
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,github,html,css" />
 </p>
