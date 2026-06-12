@@ -1,4 +1,5 @@
-# Halo guys, Saya Siti Maimunah
+# Hai, Saya Siti Maimunah
+biasa di panggil MUNAH
 
 ### Mahasiswa Universitas Nurul Huda Program Studi PENDIDIKAN TEKNOLOGI INFORMASI
 
